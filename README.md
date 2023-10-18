@@ -6,7 +6,7 @@ Doe een WCAG test op een bestaande website en rapporteer daarover.
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+![Uploading Screenshot 2023-10-18 at 10.48.14.png…]()
 
 Toon een screenshot van het Lighthouse Accessibility testresultaat.
 
